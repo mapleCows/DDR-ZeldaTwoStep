@@ -32,12 +32,19 @@ concurrent state machine task management is programmed.
 The hardware that was used in this design is listed below. The equipment that was not taught in
 this course has been bolded.
 ● ATMega1284 microcontroller
+
 ● Arduino UNO
+
 ● Adafruit led 8x8 matrix
+
 ● Buzzer
+
 ● 16x2 LCD display
+
 ● Custom Characters
+
 ● SNES Controller
+
 ● EEPROM
 
 
