@@ -6,6 +6,8 @@ on screens in time with inputs. The player will use a SNES controller to match t
 go up the LED matrix. The game will continue until the song is completed. There will be 3
 different speed difficulties. The aim is to match as many icons as possible in order to gain a
 higher score.
+
+
 ![Board](https://user-images.githubusercontent.com/38027847/106088980-d7d38500-60db-11eb-9c07-8084551899ab.jpg)
 
 ## User Guide
